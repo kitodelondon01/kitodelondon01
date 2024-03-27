@@ -1,4 +1,5 @@
-### Hi there 👋
+ hi there my name is koffi koko 
+ i'm currently learning data science from HyperionDav.
 
 <!--
 **kitodelondon01/kitodelondon01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
